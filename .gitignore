@@ -1,0 +1,19 @@
+# Evidence data: never commit this
+evidence.db
+evidence_store/
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment and secrets
+.env
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

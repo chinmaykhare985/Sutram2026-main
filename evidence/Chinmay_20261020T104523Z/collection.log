@@ -1,0 +1,18 @@
+2026-10-20T10:45:23Z  INFO  Collection started on Chinmay, output in C:\Users\kl_an\Downloads\Sutram2026-main (1)\Sutram2026-main\evidence\Chinmay_20261020T104523Z
+2026-10-20T10:45:25Z  INFO  timezone: ok 
+2026-10-20T10:45:28Z  INFO  os_info: ok 
+2026-10-20T10:45:31Z  INFO  processes: ok 
+2026-10-20T10:45:39Z  INFO  tcp_connections: ok 
+2026-10-20T10:45:42Z  INFO  udp_endpoints: ok 
+2026-10-20T10:45:45Z  INFO  dns_cache: ok 
+2026-10-20T10:45:48Z  INFO  arp_neighbors: ok 
+2026-10-20T10:45:54Z  INFO  scheduled_tasks: ok 
+2026-10-20T10:45:58Z  INFO  services: ok 
+2026-10-20T10:46:00Z  INFO  local_users: ok 
+2026-10-20T10:46:01Z  INFO  local_admins: ok 
+2026-10-20T10:46:02Z  INFO  logons: empty no matching events
+2026-10-20T10:46:03Z  INFO  evtx_Security: failed Failed to export log Security.
+Access is denied.
+2026-10-20T10:46:05Z  INFO  evtx_System: ok 
+2026-10-20T10:46:10Z  INFO  evtx_Microsoft-Windows-PowerShell_Operational: ok 
+2026-10-20T10:46:11Z  INFO  Collection finished
